@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+}
+h2 {
+  margin: 20px;
+}
+ul {
+  text-align: center;
+}
+
+body {
+  background-image: url(https://wallpaperaccess.com/full/1094782.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+  background-attachment: fixed;
+}
